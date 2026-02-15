@@ -1,0 +1,25 @@
+# Dependencies
+frontend/node_modules/
+
+# Build outputs and caches
+frontend/dist/
+frontend/node_modules/.vite/
+backend/target/
+
+# Environment (do not commit secrets)
+frontend/.env
+.env
+.env.local
+*.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.iml
+
+# Logs
+*.log
+
+# Optional: uncomment if you use H2 file DB and don't want to commit it
+# backend/data/
