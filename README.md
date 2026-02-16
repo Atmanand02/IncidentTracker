@@ -200,3 +200,6 @@ The frontend expects these endpoints:
 - Stronger a11y: skip link, focus trap in modals if added, and automated a11y checks.
 - Table: virtualized list for very large result sets.
 - Export: CSV/JSON export of filtered incidents.
+=======
+# IncidentTracker
+Full-stack Incident Tracker built with Spring Boot and React. Supports server-side pagination, filtering, search, sorting, and incident lifecycle management.
